@@ -114,8 +114,10 @@
    <text xml:lang="eng">
       <body>
          <div type="text">
-            <pb facs="tcp:041484_0000_101A921CDECD2990" rendition="simple:additions"/>
-            <pb facs="tcp:041484_0001_101A9216D1937360" rendition="simple:additions"/>
+            <pb facs="unknown:041484_0000_101A921CDECD2990"
+                rendition="simple:additions"/>
+            <pb facs="unknown:041484_0001_101A9216D1937360"
+                rendition="simple:additions"/>
             <head>
                <hi>A</hi> PROTEST, Preſented to the HOUSE OF ASSEMBLY, By the Subſcribers, at the Cloſe of the late Debate there, concerning the ſending MR. FRANKLIN As an Aſſiſtant to our AGENT, at the Court of <hi>Great-Britain.</hi>
             </head>
